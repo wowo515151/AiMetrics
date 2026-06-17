@@ -1,6 +1,6 @@
 # AiMetrics — 50 Key Investor Metrics for AI Startups
 
-> A comprehensive reference for investors evaluating AI startups. Research and development performed by **Von AI**. [LinkedIn profile of the developer](https://www.linkedin.com/in/wowo515151).
+> A comprehensive reference for investors evaluating AI startups. Research and development performed by **Von AI**. [LinkedIn profile of the developer](https://www.linkedin.com/in/warren-harding-29a0a673).
 
 ---
 
@@ -589,4 +589,4 @@ For AI startups specifically, the interplay between compute costs, data moats, a
 
 ---
 
-*Research and development performed by **Von AI**. [LinkedIn profile of the developer](https://www.linkedin.com/in/wowo515151).*
+*Research and development performed by **Von AI**. [LinkedIn profile of the developer](https://www.linkedin.com/in/warren-harding-29a0a673).*
